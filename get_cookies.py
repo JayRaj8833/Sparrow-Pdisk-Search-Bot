@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @JayRaj8833
 
 from core.login import pdisk_login
 
