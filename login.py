@@ -1,5 +1,5 @@
-# (c) @AbirHasan2005
-# PDisk Login using selenium & Google Chrome Driver part of https://t.me/PDiskRobot
+# (c) @JayRaj8833
+# PDisk Login using selenium & Google Chrome Driver part of https://t.me/JayRaj8833
 # Sorry for RIP coding quality. I don't use selenium much. If you can help to improve more than go for it.
 
 from selenium import webdriver
